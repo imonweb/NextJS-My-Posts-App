@@ -37,10 +37,7 @@ export default function Home() {
           </li>
         </ul>
 
-        <form action="">
-          <textarea className={styles.formContent} id="" cols="30" rows="10"></textarea>
-          <button className={styles.formButton}>Add New Post</button>
-        </form>
+        
       </main>
 
       
